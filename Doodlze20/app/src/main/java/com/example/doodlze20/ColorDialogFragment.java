@@ -82,10 +82,10 @@ public class ColorDialogFragment extends DialogFragment {
 
         builder.setTitle(R.string.title_color_dialog);
 
-        alpha = (SeekBar) colorDialogView.findViewById(R.id.alphaSeekBar);
-        red = (SeekBar) colorDialogView.findViewById(R.id.redSeekBar);
-        green = (SeekBar) colorDialogView.findViewById(R.id.greenSeekBar);
-        blue = (SeekBar) colorDialogView.findViewById(R.id.blueSeekBar);
+        alpha = (SeekBar) colorDialogView.findViewById(R.id.alpha);
+        red = (SeekBar) colorDialogView.findViewById(R.id.red);
+        green = (SeekBar) colorDialogView.findViewById(R.id.green);
+        blue = (SeekBar) colorDialogView.findViewById(R.id.blue);
 
         colorView = colorDialogView.findViewById(R.id.colorView);
 

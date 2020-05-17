@@ -18,7 +18,7 @@
         android:text="@string/label_alpha" />
 
     <SeekBar
-        android:id="@+id/alphaSeekBar"
+        android:id="@+id/alpha"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_column="1"
@@ -35,7 +35,7 @@
         android:text="@string/label_red" />
 
     <SeekBar
-        android:id="@+id/redSeekBar"
+        android:id="@+id/red"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_column="1"
@@ -52,7 +52,7 @@
         android:text="@string/label_green" />
 
     <SeekBar
-        android:id="@+id/greenSeekBar"
+        android:id="@+id/green"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_column="1"
@@ -69,7 +69,7 @@
         android:text="@string/label_blue" />
 
     <SeekBar
-        android:id="@+id/blueSeekBar"
+        android:id="@+id/blue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_column="1"
