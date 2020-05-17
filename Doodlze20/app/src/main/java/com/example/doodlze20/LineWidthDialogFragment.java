@@ -1,4 +1,4 @@
-package com.example.davit.doodlz;
+package com.example.doodlze20;
 
 import android.app.Dialog;
 import android.content.Context;

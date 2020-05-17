@@ -1,4 +1,4 @@
-package com.example.univer.doodlz;
+package com.example.doodlze20;
 
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
